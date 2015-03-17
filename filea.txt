@@ -1,0 +1,7 @@
+Developer 1 made changes to this file.
+Second modifications to check functionalities
+Developer 2 made changes here while dev 1 was making changes.
+Dev 1 modifies this file.
+
+Dev 3 is working on his own branch here.
+Dev 3 is done working on his branch now.
