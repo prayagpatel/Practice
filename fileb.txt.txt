@@ -1,5 +1,0 @@
-Developer 2 is udpdating this file and wait on developer 1 for further steps.
-
-Develper1 added this line to the code.
-
-Dev 2 modifies this file.
